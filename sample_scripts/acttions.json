@@ -1,0 +1,25 @@
+{
+
+    "login": {
+        "description": "Login to server and start detection",
+        "data": {
+            "username": "mahmoodi",
+            "password": "123456"
+        }
+    },
+
+    "add_camera": {
+        "description": "when camera added",
+        "data": " a camera"
+
+
+    },
+
+    "stop": {
+        "description": "stop runing ",
+        "data": ""
+
+
+    }
+
+}

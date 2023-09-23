@@ -1,0 +1,28 @@
+cameras = [{'cameraId': 3, 'name': 'cm55', 
+                    'code': 'cam3', 'ip': '192.168.1.156', 'port': 554,
+                    'fps': 5,
+                    'serial': 'rtsp://admin:2928awat@192.168.1.156:554/avstream/channel=1/stream=0-mainstream.sdp', 
+                    'description': '', 'isActive': True, 'objects': [
+                        
+                        
+                        {
+                            "cameraObjectId": 1,
+                            "objectName": "person",
+                            "objectCode": "string",
+                            "objectId": 12,
+                            "schedule": 0,
+                            "boundingBox": [(0, 0), (0, 200), (200, 200), (0, 200), (0, 0)],
+                            "scheduleName": "ever",
+                            "startDate": "2023-09-11T18:50:25.005Z",
+                            "persianStartDate": '1402-06-21 00:27:54',
+                            "endDate": '1402-06-21 00:27:54',
+                            "persianEndDate": '1402-06-21 00:27:54',
+                            "alarm": True,
+                            "sms": True,
+                            "email": True,
+                            "call": True,
+                            "releh": True,
+                            "static": True
+                        }
+
+                    ], 'details': [{"phone":"0920702921"}]}]
